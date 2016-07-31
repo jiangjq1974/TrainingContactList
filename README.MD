@@ -1,0 +1,2 @@
+#使用ContentProvider实现读取通讯录联系人信息
+适用Android5.0及以下版本
